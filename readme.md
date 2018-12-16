@@ -1,7 +1,7 @@
 
 ## Install Project
 
-- create database with name "hug_assign"
+- create database with name "assign"
 - open .env file (if not exist cope .env.example and rename to .env )and fill the below line with your own configuration 
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
